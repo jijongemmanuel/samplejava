@@ -14,7 +14,7 @@
       </answer>
     </faq>
     <faq id="why">
-      <question>Why do you think Maven is so big</question>
+      <question>Why do you think Maven is so popular</question>
       <answer>
         <p>
           Maven saves you so much time in your software development efforts that
